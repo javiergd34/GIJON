@@ -1,0 +1,90 @@
+
+
+img{
+            padding: 10px;
+            border: 2px  solid #a7a2a2;
+}
+
+div{
+            margin: 5px;
+            padding: 10px;
+}
+.left{
+    margin: 5px;
+    float: left;
+    padding: 10px;
+}
+.right{
+    margin: 5px;
+    float: right;
+    padding: 10px;
+}
+.color2{
+    background-color: red;
+}
+.color1{
+    background-color: #af1010;
+}
+.color3{
+    background-color: orangered;
+}
+.color4{
+    background-color: orange
+}
+.color5{
+    background-color: #FFFB64;
+}
+.color6{
+    background-color: bisque;
+}
+.color7{
+    background-color: lightskyblue;
+}
+.color8{
+     background-color: skyblue;
+}
+.color9{
+    background-color:rgb(18, 127, 230);
+}
+.color10{
+    background-color: rgb(32, 97, 218);
+}
+.color11{
+        background-color:rgb(123, 46, 211);
+}
+.color12{
+    background-color: rgb(63, 125, 240);
+}
+.color13{
+    background-color: rgb(205, 235, 96);
+}
+.color14{
+    background-color: lightgray;
+}
+tfoot{
+    text-align: center;
+}
+body{
+    background-color: rgb(250, 245, 245);
+    color: red;
+}
+h1{
+    text-align: center;
+}
+.gijon{
+    width: 50%;
+    float: left;
+    margin-right: 20px;
+}
+.bandera{
+    width: 300px;
+    height: 150px;
+    float: right;
+}
+p{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+td{
+    color: black;
+}
